@@ -1,0 +1,376 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Jdi a otevři dveře",
+    "identifier": "7be08ac0-95a6-4815-8085-4a17fc310135",
+    "author": "Miroslav Holub",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2020-06-10T00:00:00.000Z",
+    "published": "2020-06-11T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_044.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Dveře",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_006.html"
+    },
+    {
+      "title": "I",
+      "children": [
+        {
+          "title": "O vývoji jara",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_008.html"
+        },
+        {
+          "title": "Advent",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_009.html"
+        },
+        {
+          "title": "Vodník",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_010.html"
+        },
+        {
+          "title": "Čarodějův učeň",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_011.html"
+        },
+        {
+          "title": "Polednice",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_012.html"
+        },
+        {
+          "title": "Večerní zátiší s protoplasmou",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_013.html"
+        },
+        {
+          "title": "Staré město",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_014.html"
+        },
+        {
+          "title": "Pohádka",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_015.html"
+        },
+        {
+          "title": "Výčep",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_016.html"
+        },
+        {
+          "title": "Trefa",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_017.html"
+        },
+        {
+          "title": "Elegán",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_018.html"
+        },
+        {
+          "title": "Honorace",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_019.html"
+        },
+        {
+          "title": "Posluchač",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_020.html"
+        },
+        {
+          "title": "Několik velmi chytrých lidí",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_021.html"
+        },
+        {
+          "title": "Učitel",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_022.html"
+        },
+        {
+          "title": "Parádní pokoj čili výklad básně",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_023.html"
+        }
+      ],
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_007.html"
+    },
+    {
+      "title": "II",
+      "children": [
+        {
+          "title": "Výcvik astronautů",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_025.html"
+        },
+        {
+          "title": "Cesta k Venuši",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_026.html"
+        },
+        {
+          "title": "Izotopy",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_027.html"
+        },
+        {
+          "title": "Umělý déšť",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_028.html"
+        },
+        {
+          "title": "Žito kouzelník",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_029.html"
+        },
+        {
+          "title": "Vynálezy",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_030.html"
+        },
+        {
+          "title": "Potápěč",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_031.html"
+        },
+        {
+          "title": "Malíř",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_032.html"
+        },
+        {
+          "title": "Kolotoč",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_033.html"
+        },
+        {
+          "title": "O básni",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_034.html"
+        },
+        {
+          "title": "Návrat z venkovského kina",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_035.html"
+        },
+        {
+          "title": "Strojvedoucí",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_036.html"
+        },
+        {
+          "title": "Zvonek",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_037.html"
+        },
+        {
+          "title": "Konec hry",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_038.html"
+        },
+        {
+          "title": "Cesta",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_039.html"
+        },
+        {
+          "title": "Pes v lomu",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_040.html"
+        },
+        {
+          "title": "Králové",
+          "href": "OEBPS/Text/jdi_a_otevri_dvere_041.html"
+        }
+      ],
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_024.html"
+    },
+    {
+      "title": "Váha",
+      "href": "OEBPS/Text/jdi_a_otevri_dvere_043.html"
+    }
+  ]
+}

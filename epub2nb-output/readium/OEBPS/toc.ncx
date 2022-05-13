@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="7be08ac0-95a6-4815-8085-4a17fc310135" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Jdi a otevři dveře</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Dveře</text>
+      </navLabel>
+      <content src="Text/jdi_a_otevri_dvere_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/jdi_a_otevri_dvere_007.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>O vývoji jara</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Advent</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Vodník</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Čarodějův učeň</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Polednice</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Večerní zátiší s protoplasmou</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Staré město</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Pohádka</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Výčep</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Trefa</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Elegán</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Honorace</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Posluchač</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Několik velmi chytrých lidí</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Učitel</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Parádní pokoj čili výklad básně</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_023.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/jdi_a_otevri_dvere_024.html"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Výcvik astronautů</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Cesta k Venuši</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Izotopy</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Umělý déšť</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Žito kouzelník</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Vynálezy</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Potápěč</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Malíř</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Kolotoč</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>O básni</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Návrat z venkovského kina</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_035.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Strojvedoucí</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_036.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Zvonek</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Konec hry</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_038.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Cesta</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Pes v lomu</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Králové</text>
+        </navLabel>
+        <content src="Text/jdi_a_otevri_dvere_041.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Váha</text>
+      </navLabel>
+      <content src="Text/jdi_a_otevri_dvere_043.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
