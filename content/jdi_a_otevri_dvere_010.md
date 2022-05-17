@@ -1,6 +1,6 @@
 ---
 title: Vodník
-contentType: prose
+contentType: poetry
 ---
 
 Je nutno  

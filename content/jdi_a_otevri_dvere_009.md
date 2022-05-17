@@ -1,6 +1,6 @@
 ---
 title: Advent
-contentType: prose
+contentType: poetry
 ---
 
 Ledy leží podle řeky  

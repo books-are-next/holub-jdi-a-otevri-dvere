@@ -1,6 +1,6 @@
 ---
 title: "Pes v\_lomu"
-contentType: prose
+contentType: poetry
 ---
 
 Den jasný,  

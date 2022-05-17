@@ -1,6 +1,6 @@
 ---
 title: Polednice
-contentType: prose
+contentType: poetry
 ---
 
 Stojí frontu na loktuše,  

@@ -1,6 +1,6 @@
 ---
 title: "Návrat z\_venkovského kina"
-contentType: prose
+contentType: poetry
 ---
 
 Už nevím, co to dávali za kus.

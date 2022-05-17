@@ -1,6 +1,6 @@
 ---
 title: Několik velmi chytrých lidí
-contentType: prose
+contentType: poetry
 ---
 
 Mluvili špendlíky,  

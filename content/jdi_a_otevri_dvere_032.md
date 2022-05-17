@@ -1,6 +1,6 @@
 ---
 title: Malíř
-contentType: prose
+contentType: poetry
 ---
 
 Uměl namalovat včerejší déšť a zítřejší kouř. Uměl namalovat zlaté lvy v oblacích i růže podzemní. A muší smích.

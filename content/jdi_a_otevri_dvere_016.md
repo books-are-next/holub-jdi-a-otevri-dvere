@@ -1,6 +1,6 @@
 ---
 title: Výčep
-contentType: prose
+contentType: poetry
 ---
 
 Blahodárný špiritus  

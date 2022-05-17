@@ -1,6 +1,6 @@
 ---
 title: "Cesta k\_Venuši"
-contentType: prose
+contentType: poetry
 ---
 
 12\. února 1961 byla v SSSR  

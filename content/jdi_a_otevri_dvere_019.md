@@ -1,6 +1,6 @@
 ---
 title: Honorace
-contentType: prose
+contentType: poetry
 ---
 
 Na hlavu si postaví  

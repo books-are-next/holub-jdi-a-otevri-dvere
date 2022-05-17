@@ -1,6 +1,6 @@
 ---
 title: Výcvik astronautů
-contentType: prose
+contentType: poetry
 ---
 
 Abychom strhli  

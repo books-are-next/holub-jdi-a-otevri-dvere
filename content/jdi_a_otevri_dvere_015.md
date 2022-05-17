@@ -1,6 +1,6 @@
 ---
 title: Pohádka
-contentType: prose
+contentType: poetry
 ---
 
 Postavil si svůj domek,  

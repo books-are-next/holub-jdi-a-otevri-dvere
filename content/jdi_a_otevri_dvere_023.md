@@ -1,6 +1,6 @@
 ---
 title: Parádní pokoj čili výklad básně
-contentType: prose
+contentType: poetry
 ---
 
 A teď mi to řekněte  
