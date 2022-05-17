@@ -1,6 +1,8 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Jdi a otevři dveře",
       "identifier": "7be08ac0-95a6-4815-8085-4a17fc310135",
       "author": "Miroslav Holub",
@@ -8,7 +10,7 @@
       "modified": "2020-06-10T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nmlpuroven1cast\nmlpuroven2basne",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
       "h3": "",
@@ -30,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "jdi_a_otevri_dvere_001.md",
@@ -559,217 +562,217 @@
         "xhtml": "jdi_a_otevri_dvere_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dveře",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_006.md",
         "xhtml": "jdi_a_otevri_dvere_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_007.md",
         "xhtml": "jdi_a_otevri_dvere_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O vývoji jara",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_008.md",
         "xhtml": "jdi_a_otevri_dvere_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Advent",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_009.md",
         "xhtml": "jdi_a_otevri_dvere_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vodník",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_010.md",
         "xhtml": "jdi_a_otevri_dvere_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čarodějův učeň",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_011.md",
         "xhtml": "jdi_a_otevri_dvere_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Polednice",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_012.md",
         "xhtml": "jdi_a_otevri_dvere_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Večerní zátiší s protoplasmou",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_013.md",
         "xhtml": "jdi_a_otevri_dvere_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Staré město",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_014.md",
         "xhtml": "jdi_a_otevri_dvere_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohádka",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_015.md",
         "xhtml": "jdi_a_otevri_dvere_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Výčep",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_016.md",
         "xhtml": "jdi_a_otevri_dvere_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Trefa",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_017.md",
         "xhtml": "jdi_a_otevri_dvere_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Elegán",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_018.md",
         "xhtml": "jdi_a_otevri_dvere_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Honorace",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_019.md",
         "xhtml": "jdi_a_otevri_dvere_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Posluchač",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_020.md",
         "xhtml": "jdi_a_otevri_dvere_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Několik velmi chytrých lidí",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_021.md",
         "xhtml": "jdi_a_otevri_dvere_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Učitel",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_022.md",
         "xhtml": "jdi_a_otevri_dvere_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Parádní pokoj čili výklad básně",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_023.md",
         "xhtml": "jdi_a_otevri_dvere_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_024.md",
         "xhtml": "jdi_a_otevri_dvere_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Výcvik astronautů",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_025.md",
         "xhtml": "jdi_a_otevri_dvere_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cesta k Venuši",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_026.md",
         "xhtml": "jdi_a_otevri_dvere_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Izotopy",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_027.md",
         "xhtml": "jdi_a_otevri_dvere_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Umělý déšť",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_028.md",
         "xhtml": "jdi_a_otevri_dvere_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žito kouzelník",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_029.md",
         "xhtml": "jdi_a_otevri_dvere_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vynálezy",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_030.md",
         "xhtml": "jdi_a_otevri_dvere_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Potápěč",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_031.md",
         "xhtml": "jdi_a_otevri_dvere_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Malíř",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_032.md",
         "xhtml": "jdi_a_otevri_dvere_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kolotoč",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_033.md",
         "xhtml": "jdi_a_otevri_dvere_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O básni",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_034.md",
         "xhtml": "jdi_a_otevri_dvere_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Návrat z venkovského kina",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_035.md",
         "xhtml": "jdi_a_otevri_dvere_035.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Strojvedoucí",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_036.md",
         "xhtml": "jdi_a_otevri_dvere_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zvonek",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_037.md",
         "xhtml": "jdi_a_otevri_dvere_037.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Konec hry",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_038.md",
         "xhtml": "jdi_a_otevri_dvere_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cesta",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_039.md",
         "xhtml": "jdi_a_otevri_dvere_039.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pes v lomu",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_040.md",
         "xhtml": "jdi_a_otevri_dvere_040.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Králové",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_041.md",
         "xhtml": "jdi_a_otevri_dvere_041.html"
@@ -781,7 +784,7 @@
         "xhtml": "jdi_a_otevri_dvere_042.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Váha",
         "subtitleSuggest": "",
         "filename": "jdi_a_otevri_dvere_043.md",
         "xhtml": "jdi_a_otevri_dvere_043.html"
@@ -874,6 +877,6 @@
       "user": "books-are-next",
       "repo": "holub-jdi-a-otevri-dvere"
     },
-    "generatedAt": 1652420623327
+    "generatedAt": 1652767699252
   }
 }

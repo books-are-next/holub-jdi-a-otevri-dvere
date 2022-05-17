@@ -1,8 +1,7 @@
 ---
+title: Dveře
 contentType: prose
 ---
-
-# Dveře
 
 Jdi a otevři dveře.  
           Třeba je tam venku  

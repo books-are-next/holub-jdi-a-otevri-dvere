@@ -1,8 +1,7 @@
 ---
+title: Posluchač
 contentType: prose
 ---
-
-## Posluchač
 
 S uchem na ampliónu  
 kroutí knoflíky,  

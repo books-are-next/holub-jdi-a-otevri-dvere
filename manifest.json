@@ -1,0 +1,969 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Jdi a otevři dveře",
+  "author": "Miroslav Holub",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "holub-jdi-a-otevri-dvere-5788c19",
+  "revision": "5788c19",
+  "readingOrder": [
+    "promo.html",
+    "jdi_a_otevri_dvere_001.html",
+    "jdi_a_otevri_dvere_002.html",
+    "jdi_a_otevri_dvere_003.html",
+    "jdi_a_otevri_dvere_004.html",
+    "jdi_a_otevri_dvere_005.html",
+    "jdi_a_otevri_dvere_006.html",
+    "jdi_a_otevri_dvere_007.html",
+    "jdi_a_otevri_dvere_008.html",
+    "jdi_a_otevri_dvere_009.html",
+    "jdi_a_otevri_dvere_010.html",
+    "jdi_a_otevri_dvere_011.html",
+    "jdi_a_otevri_dvere_012.html",
+    "jdi_a_otevri_dvere_013.html",
+    "jdi_a_otevri_dvere_014.html",
+    "jdi_a_otevri_dvere_015.html",
+    "jdi_a_otevri_dvere_016.html",
+    "jdi_a_otevri_dvere_017.html",
+    "jdi_a_otevri_dvere_018.html",
+    "jdi_a_otevri_dvere_019.html",
+    "jdi_a_otevri_dvere_020.html",
+    "jdi_a_otevri_dvere_021.html",
+    "jdi_a_otevri_dvere_022.html",
+    "jdi_a_otevri_dvere_023.html",
+    "jdi_a_otevri_dvere_024.html",
+    "jdi_a_otevri_dvere_025.html",
+    "jdi_a_otevri_dvere_026.html",
+    "jdi_a_otevri_dvere_027.html",
+    "jdi_a_otevri_dvere_028.html",
+    "jdi_a_otevri_dvere_029.html",
+    "jdi_a_otevri_dvere_030.html",
+    "jdi_a_otevri_dvere_031.html",
+    "jdi_a_otevri_dvere_032.html",
+    "jdi_a_otevri_dvere_033.html",
+    "jdi_a_otevri_dvere_034.html",
+    "jdi_a_otevri_dvere_035.html",
+    "jdi_a_otevri_dvere_036.html",
+    "jdi_a_otevri_dvere_037.html",
+    "jdi_a_otevri_dvere_038.html",
+    "jdi_a_otevri_dvere_039.html",
+    "jdi_a_otevri_dvere_040.html",
+    "jdi_a_otevri_dvere_041.html",
+    "jdi_a_otevri_dvere_042.html",
+    "jdi_a_otevri_dvere_043.html",
+    "jdi_a_otevri_dvere_044.html"
+  ],
+  "generatedAt": {
+    "date": "Tue May 17 2022 06:09:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652767766759
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "jdi_a_otevri_dvere_001.html",
+      "toc": []
+    },
+    {
+      "title": "Jdi a otevři dveře",
+      "file": "jdi_a_otevri_dvere_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "jdi_a_otevri_dvere_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdi a otevři dveře",
+      "file": "jdi_a_otevri_dvere_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 2,
+      "prev": "jdi_a_otevri_dvere_001.html",
+      "next": "jdi_a_otevri_dvere_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdi a otevři dveře",
+      "file": "jdi_a_otevri_dvere_003.html",
+      "words": 6,
+      "chars": 32,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "jdi_a_otevri_dvere_002.html",
+      "next": "jdi_a_otevri_dvere_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdi a otevři dveře",
+      "file": "jdi_a_otevri_dvere_004.html",
+      "words": 95,
+      "chars": 608,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "jdi_a_otevri_dvere_003.html",
+      "next": "jdi_a_otevri_dvere_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdi a otevři dveře",
+      "file": "jdi_a_otevri_dvere_005.html",
+      "words": 8,
+      "chars": 52,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 5,
+      "prev": "jdi_a_otevri_dvere_004.html",
+      "next": "jdi_a_otevri_dvere_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dveře",
+      "file": "jdi_a_otevri_dvere_006.html",
+      "words": 73,
+      "chars": 357,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 6,
+      "prev": "jdi_a_otevri_dvere_005.html",
+      "next": "jdi_a_otevri_dvere_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dveře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "jdi_a_otevri_dvere_007.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "jdi_a_otevri_dvere_006.html",
+      "next": "jdi_a_otevri_dvere_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O vývoji jara",
+      "file": "jdi_a_otevri_dvere_008.html",
+      "words": 47,
+      "chars": 278,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 8,
+      "prev": "jdi_a_otevri_dvere_007.html",
+      "next": "jdi_a_otevri_dvere_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O vývoji jara",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Advent",
+      "file": "jdi_a_otevri_dvere_009.html",
+      "words": 44,
+      "chars": 247,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 9,
+      "prev": "jdi_a_otevri_dvere_008.html",
+      "next": "jdi_a_otevri_dvere_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Advent",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vodník",
+      "file": "jdi_a_otevri_dvere_010.html",
+      "words": 44,
+      "chars": 221,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 10,
+      "prev": "jdi_a_otevri_dvere_009.html",
+      "next": "jdi_a_otevri_dvere_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vodník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čarodějův učeň",
+      "file": "jdi_a_otevri_dvere_011.html",
+      "words": 56,
+      "chars": 335,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 11,
+      "prev": "jdi_a_otevri_dvere_010.html",
+      "next": "jdi_a_otevri_dvere_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čarodějův učeň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Polednice",
+      "file": "jdi_a_otevri_dvere_012.html",
+      "words": 58,
+      "chars": 331,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 12,
+      "prev": "jdi_a_otevri_dvere_011.html",
+      "next": "jdi_a_otevri_dvere_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Polednice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Večerní zátiší s protoplasmou",
+      "file": "jdi_a_otevri_dvere_013.html",
+      "words": 71,
+      "chars": 517,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 13,
+      "prev": "jdi_a_otevri_dvere_012.html",
+      "next": "jdi_a_otevri_dvere_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Večerní zátiší s protoplasmou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Staré město",
+      "file": "jdi_a_otevri_dvere_014.html",
+      "words": 75,
+      "chars": 412,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 14,
+      "prev": "jdi_a_otevri_dvere_013.html",
+      "next": "jdi_a_otevri_dvere_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Staré město",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádka",
+      "file": "jdi_a_otevri_dvere_015.html",
+      "words": 68,
+      "chars": 378,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 15,
+      "prev": "jdi_a_otevri_dvere_014.html",
+      "next": "jdi_a_otevri_dvere_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výčep",
+      "file": "jdi_a_otevri_dvere_016.html",
+      "words": 31,
+      "chars": 184,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 16,
+      "prev": "jdi_a_otevri_dvere_015.html",
+      "next": "jdi_a_otevri_dvere_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výčep",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trefa",
+      "file": "jdi_a_otevri_dvere_017.html",
+      "words": 92,
+      "chars": 534,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 17,
+      "prev": "jdi_a_otevri_dvere_016.html",
+      "next": "jdi_a_otevri_dvere_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trefa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Elegán",
+      "file": "jdi_a_otevri_dvere_018.html",
+      "words": 48,
+      "chars": 285,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 18,
+      "prev": "jdi_a_otevri_dvere_017.html",
+      "next": "jdi_a_otevri_dvere_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Elegán",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Honorace",
+      "file": "jdi_a_otevri_dvere_019.html",
+      "words": 56,
+      "chars": 323,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 19,
+      "prev": "jdi_a_otevri_dvere_018.html",
+      "next": "jdi_a_otevri_dvere_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Honorace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Posluchač",
+      "file": "jdi_a_otevri_dvere_020.html",
+      "words": 80,
+      "chars": 485,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 20,
+      "prev": "jdi_a_otevri_dvere_019.html",
+      "next": "jdi_a_otevri_dvere_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Posluchač",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Několik velmi chytrých lidí",
+      "file": "jdi_a_otevri_dvere_021.html",
+      "words": 29,
+      "chars": 167,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 21,
+      "prev": "jdi_a_otevri_dvere_020.html",
+      "next": "jdi_a_otevri_dvere_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Několik velmi chytrých lidí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Učitel",
+      "file": "jdi_a_otevri_dvere_022.html",
+      "words": 41,
+      "chars": 229,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 22,
+      "prev": "jdi_a_otevri_dvere_021.html",
+      "next": "jdi_a_otevri_dvere_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Učitel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Parádní pokoj čili výklad básně",
+      "file": "jdi_a_otevri_dvere_023.html",
+      "words": 5,
+      "chars": 31,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 23,
+      "prev": "jdi_a_otevri_dvere_022.html",
+      "next": "jdi_a_otevri_dvere_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Parádní pokoj čili výklad básně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "jdi_a_otevri_dvere_024.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 24,
+      "prev": "jdi_a_otevri_dvere_023.html",
+      "next": "jdi_a_otevri_dvere_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výcvik astronautů",
+      "file": "jdi_a_otevri_dvere_025.html",
+      "words": 57,
+      "chars": 345,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 25,
+      "prev": "jdi_a_otevri_dvere_024.html",
+      "next": "jdi_a_otevri_dvere_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výcvik astronautů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta k Venuši",
+      "file": "jdi_a_otevri_dvere_026.html",
+      "words": 67,
+      "chars": 414,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 26,
+      "prev": "jdi_a_otevri_dvere_025.html",
+      "next": "jdi_a_otevri_dvere_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta k Venuši",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Izotopy",
+      "file": "jdi_a_otevri_dvere_027.html",
+      "words": 51,
+      "chars": 321,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 27,
+      "prev": "jdi_a_otevri_dvere_026.html",
+      "next": "jdi_a_otevri_dvere_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Izotopy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umělý déšť",
+      "file": "jdi_a_otevri_dvere_028.html",
+      "words": 68,
+      "chars": 366,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 28,
+      "prev": "jdi_a_otevri_dvere_027.html",
+      "next": "jdi_a_otevri_dvere_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Umělý déšť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žito kouzelník",
+      "file": "jdi_a_otevri_dvere_029.html",
+      "words": 109,
+      "chars": 620,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 29,
+      "prev": "jdi_a_otevri_dvere_028.html",
+      "next": "jdi_a_otevri_dvere_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žito kouzelník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vynálezy",
+      "file": "jdi_a_otevri_dvere_030.html",
+      "words": 128,
+      "chars": 736,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 30,
+      "prev": "jdi_a_otevri_dvere_029.html",
+      "next": "jdi_a_otevri_dvere_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vynálezy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Potápěč",
+      "file": "jdi_a_otevri_dvere_031.html",
+      "words": 76,
+      "chars": 509,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 31,
+      "prev": "jdi_a_otevri_dvere_030.html",
+      "next": "jdi_a_otevri_dvere_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Potápěč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malíř",
+      "file": "jdi_a_otevri_dvere_032.html",
+      "words": 51,
+      "chars": 291,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 32,
+      "prev": "jdi_a_otevri_dvere_031.html",
+      "next": "jdi_a_otevri_dvere_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malíř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kolotoč",
+      "file": "jdi_a_otevri_dvere_033.html",
+      "words": 84,
+      "chars": 553,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 33,
+      "prev": "jdi_a_otevri_dvere_032.html",
+      "next": "jdi_a_otevri_dvere_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kolotoč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O básni",
+      "file": "jdi_a_otevri_dvere_034.html",
+      "words": 78,
+      "chars": 451,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 34,
+      "prev": "jdi_a_otevri_dvere_033.html",
+      "next": "jdi_a_otevri_dvere_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O básni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat z venkovského kina",
+      "file": "jdi_a_otevri_dvere_035.html",
+      "words": 67,
+      "chars": 329,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 35,
+      "prev": "jdi_a_otevri_dvere_034.html",
+      "next": "jdi_a_otevri_dvere_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat z venkovského kina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Strojvedoucí",
+      "file": "jdi_a_otevri_dvere_036.html",
+      "words": 20,
+      "chars": 121,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 36,
+      "prev": "jdi_a_otevri_dvere_035.html",
+      "next": "jdi_a_otevri_dvere_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Strojvedoucí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zvonek",
+      "file": "jdi_a_otevri_dvere_037.html",
+      "words": 58,
+      "chars": 336,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 37,
+      "prev": "jdi_a_otevri_dvere_036.html",
+      "next": "jdi_a_otevri_dvere_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zvonek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konec hry",
+      "file": "jdi_a_otevri_dvere_038.html",
+      "words": 207,
+      "chars": 1263,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 38,
+      "prev": "jdi_a_otevri_dvere_037.html",
+      "next": "jdi_a_otevri_dvere_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konec hry",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta",
+      "file": "jdi_a_otevri_dvere_039.html",
+      "words": 244,
+      "chars": 1416,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 39,
+      "prev": "jdi_a_otevri_dvere_038.html",
+      "next": "jdi_a_otevri_dvere_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes v lomu",
+      "file": "jdi_a_otevri_dvere_040.html",
+      "words": 317,
+      "chars": 1688,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 40,
+      "prev": "jdi_a_otevri_dvere_039.html",
+      "next": "jdi_a_otevri_dvere_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pes v lomu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Králové",
+      "file": "jdi_a_otevri_dvere_041.html",
+      "words": 176,
+      "chars": 998,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 41,
+      "prev": "jdi_a_otevri_dvere_040.html",
+      "next": "jdi_a_otevri_dvere_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Králové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdi a otevři dveře",
+      "file": "jdi_a_otevri_dvere_042.html",
+      "words": 17,
+      "chars": 83,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 42,
+      "prev": "jdi_a_otevri_dvere_041.html",
+      "next": "jdi_a_otevri_dvere_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Váha",
+      "file": "jdi_a_otevri_dvere_043.html",
+      "words": 206,
+      "chars": 1160,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 43,
+      "prev": "jdi_a_otevri_dvere_042.html",
+      "next": "jdi_a_otevri_dvere_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Váha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdi a otevři dveře",
+      "file": "jdi_a_otevri_dvere_044.html",
+      "words": 51,
+      "chars": 337,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 44,
+      "prev": "jdi_a_otevri_dvere_043.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3168,
+      "chars": 18383,
+      "ideas": 875
+    },
+    "chapters": {
+      "words": 3161,
+      "chars": 18346,
+      "ideas": 872
+    }
+  }
+}

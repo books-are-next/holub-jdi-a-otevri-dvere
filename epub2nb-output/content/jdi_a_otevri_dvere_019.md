@@ -1,8 +1,7 @@
 ---
+title: Honorace
 contentType: prose
 ---
-
-## Honorace
 
 Na hlavu si postaví  
 čápa,  

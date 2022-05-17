@@ -1,8 +1,7 @@
 ---
+title: Konec hry
 contentType: prose
 ---
-
-## Konec hry
 
 Když se míč odkutálel  
 a zarazil  

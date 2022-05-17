@@ -1,8 +1,7 @@
 ---
+title: Výčep
 contentType: prose
 ---
-
-## Výčep
 
 Blahodárný špiritus  
 stéká po sliznicích,  

@@ -1,8 +1,7 @@
 ---
+title: Učitel
 contentType: prose
 ---
-
-## Učitel
 
 Země se točí,  
                          říká žáček.  

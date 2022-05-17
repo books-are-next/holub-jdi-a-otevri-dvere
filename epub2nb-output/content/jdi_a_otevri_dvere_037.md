@@ -1,8 +1,7 @@
 ---
+title: Zvonek
 contentType: prose
 ---
-
-## Zvonek
 
 V tomto domě nikdo nemá zvonek. Návštěvníky  
 si pozná každý skrze stěnu,  

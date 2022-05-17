@@ -1,8 +1,7 @@
 ---
+title: "Pes v\_lomu"
 contentType: prose
 ---
-
-## Pes v lomu
 
 Den jasný,  
                     že se i ptačí klece otvíraly.  

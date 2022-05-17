@@ -1,8 +1,7 @@
 ---
+title: "O\_básni"
 contentType: prose
 ---
-
-## O básni
 
 Je to  
         doutnák,  

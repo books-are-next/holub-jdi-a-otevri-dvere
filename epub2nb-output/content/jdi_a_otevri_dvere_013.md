@@ -1,9 +1,7 @@
 ---
+title: "Večerní zátiší s\_protoplasmou"
 contentType: prose
 ---
-
-## Večerní zátiší  
-s protoplasmou
 
 Domy obrůstají  
 lišejem soumraku,  
