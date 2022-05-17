@@ -5,16 +5,13 @@
   "title": "Jdi a otevři dveře",
   "author": "Miroslav Holub",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-jdi-a-otevri-dvere-5788c19",
-  "revision": "5788c19",
+  "identifier": "holub-jdi-a-otevri-dvere-da60afe",
+  "revision": "da60afe",
   "readingOrder": [
     "promo.html",
-    "jdi_a_otevri_dvere_001.html",
-    "jdi_a_otevri_dvere_002.html",
-    "jdi_a_otevri_dvere_003.html",
-    "jdi_a_otevri_dvere_004.html",
     "jdi_a_otevri_dvere_005.html",
     "jdi_a_otevri_dvere_006.html",
     "jdi_a_otevri_dvere_007.html",
@@ -54,11 +51,11 @@
     "jdi_a_otevri_dvere_041.html",
     "jdi_a_otevri_dvere_042.html",
     "jdi_a_otevri_dvere_043.html",
-    "jdi_a_otevri_dvere_044.html"
+    "colophon.html"
   ],
   "generatedAt": {
-    "date": "Tue May 17 2022 06:09:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652767766759
+    "date": "Tue May 17 2022 13:44:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652795053772
   },
   "documents": [
     {
@@ -70,88 +67,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "jdi_a_otevri_dvere_001.html",
-      "toc": []
-    },
-    {
-      "title": "Jdi a otevři dveře",
-      "file": "jdi_a_otevri_dvere_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "jdi_a_otevri_dvere_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Jdi a otevři dveře",
-      "file": "jdi_a_otevri_dvere_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 2,
-      "prev": "jdi_a_otevri_dvere_001.html",
-      "next": "jdi_a_otevri_dvere_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Jdi a otevři dveře",
-      "file": "jdi_a_otevri_dvere_003.html",
-      "words": 6,
-      "chars": 32,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 3,
-      "prev": "jdi_a_otevri_dvere_002.html",
-      "next": "jdi_a_otevri_dvere_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Jdi a otevři dveře",
-      "file": "jdi_a_otevri_dvere_004.html",
-      "words": 95,
-      "chars": 608,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "jdi_a_otevri_dvere_003.html",
       "next": "jdi_a_otevri_dvere_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Jdi a otevři dveře",
@@ -160,8 +77,8 @@
       "chars": 52,
       "ideas": 2,
       "role": "chapter",
-      "order": 5,
-      "prev": "jdi_a_otevri_dvere_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "jdi_a_otevri_dvere_006.html",
       "toc": [
         {
@@ -180,7 +97,7 @@
       "chars": 357,
       "ideas": 27,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "jdi_a_otevri_dvere_005.html",
       "next": "jdi_a_otevri_dvere_007.html",
       "toc": [
@@ -200,7 +117,7 @@
       "chars": 1,
       "ideas": 1,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "jdi_a_otevri_dvere_006.html",
       "next": "jdi_a_otevri_dvere_008.html",
       "toc": [
@@ -220,7 +137,7 @@
       "chars": 278,
       "ideas": 17,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "jdi_a_otevri_dvere_007.html",
       "next": "jdi_a_otevri_dvere_009.html",
       "toc": [
@@ -240,7 +157,7 @@
       "chars": 247,
       "ideas": 18,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "jdi_a_otevri_dvere_008.html",
       "next": "jdi_a_otevri_dvere_010.html",
       "toc": [
@@ -260,7 +177,7 @@
       "chars": 221,
       "ideas": 9,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "jdi_a_otevri_dvere_009.html",
       "next": "jdi_a_otevri_dvere_011.html",
       "toc": [
@@ -280,7 +197,7 @@
       "chars": 335,
       "ideas": 20,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "jdi_a_otevri_dvere_010.html",
       "next": "jdi_a_otevri_dvere_012.html",
       "toc": [
@@ -300,7 +217,7 @@
       "chars": 331,
       "ideas": 17,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "jdi_a_otevri_dvere_011.html",
       "next": "jdi_a_otevri_dvere_013.html",
       "toc": [
@@ -320,7 +237,7 @@
       "chars": 517,
       "ideas": 22,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "jdi_a_otevri_dvere_012.html",
       "next": "jdi_a_otevri_dvere_014.html",
       "toc": [
@@ -340,7 +257,7 @@
       "chars": 412,
       "ideas": 26,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "jdi_a_otevri_dvere_013.html",
       "next": "jdi_a_otevri_dvere_015.html",
       "toc": [
@@ -360,7 +277,7 @@
       "chars": 378,
       "ideas": 23,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "jdi_a_otevri_dvere_014.html",
       "next": "jdi_a_otevri_dvere_016.html",
       "toc": [
@@ -380,7 +297,7 @@
       "chars": 184,
       "ideas": 10,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "jdi_a_otevri_dvere_015.html",
       "next": "jdi_a_otevri_dvere_017.html",
       "toc": [
@@ -400,7 +317,7 @@
       "chars": 534,
       "ideas": 32,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "jdi_a_otevri_dvere_016.html",
       "next": "jdi_a_otevri_dvere_018.html",
       "toc": [
@@ -420,7 +337,7 @@
       "chars": 285,
       "ideas": 17,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "jdi_a_otevri_dvere_017.html",
       "next": "jdi_a_otevri_dvere_019.html",
       "toc": [
@@ -440,7 +357,7 @@
       "chars": 323,
       "ideas": 21,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "jdi_a_otevri_dvere_018.html",
       "next": "jdi_a_otevri_dvere_020.html",
       "toc": [
@@ -460,7 +377,7 @@
       "chars": 485,
       "ideas": 28,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "jdi_a_otevri_dvere_019.html",
       "next": "jdi_a_otevri_dvere_021.html",
       "toc": [
@@ -480,7 +397,7 @@
       "chars": 167,
       "ideas": 11,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "jdi_a_otevri_dvere_020.html",
       "next": "jdi_a_otevri_dvere_022.html",
       "toc": [
@@ -500,7 +417,7 @@
       "chars": 229,
       "ideas": 14,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "jdi_a_otevri_dvere_021.html",
       "next": "jdi_a_otevri_dvere_023.html",
       "toc": [
@@ -520,7 +437,7 @@
       "chars": 31,
       "ideas": 1,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "jdi_a_otevri_dvere_022.html",
       "next": "jdi_a_otevri_dvere_024.html",
       "toc": [
@@ -540,7 +457,7 @@
       "chars": 2,
       "ideas": 1,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "jdi_a_otevri_dvere_023.html",
       "next": "jdi_a_otevri_dvere_025.html",
       "toc": [
@@ -560,7 +477,7 @@
       "chars": 345,
       "ideas": 22,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "jdi_a_otevri_dvere_024.html",
       "next": "jdi_a_otevri_dvere_026.html",
       "toc": [
@@ -580,7 +497,7 @@
       "chars": 414,
       "ideas": 19,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "jdi_a_otevri_dvere_025.html",
       "next": "jdi_a_otevri_dvere_027.html",
       "toc": [
@@ -600,7 +517,7 @@
       "chars": 321,
       "ideas": 22,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "jdi_a_otevri_dvere_026.html",
       "next": "jdi_a_otevri_dvere_028.html",
       "toc": [
@@ -620,7 +537,7 @@
       "chars": 366,
       "ideas": 20,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "jdi_a_otevri_dvere_027.html",
       "next": "jdi_a_otevri_dvere_029.html",
       "toc": [
@@ -640,7 +557,7 @@
       "chars": 620,
       "ideas": 9,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "jdi_a_otevri_dvere_028.html",
       "next": "jdi_a_otevri_dvere_030.html",
       "toc": [
@@ -660,7 +577,7 @@
       "chars": 736,
       "ideas": 7,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "jdi_a_otevri_dvere_029.html",
       "next": "jdi_a_otevri_dvere_031.html",
       "toc": [
@@ -680,7 +597,7 @@
       "chars": 509,
       "ideas": 7,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "jdi_a_otevri_dvere_030.html",
       "next": "jdi_a_otevri_dvere_032.html",
       "toc": [
@@ -700,7 +617,7 @@
       "chars": 291,
       "ideas": 4,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "jdi_a_otevri_dvere_031.html",
       "next": "jdi_a_otevri_dvere_033.html",
       "toc": [
@@ -720,7 +637,7 @@
       "chars": 553,
       "ideas": 27,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "jdi_a_otevri_dvere_032.html",
       "next": "jdi_a_otevri_dvere_034.html",
       "toc": [
@@ -740,7 +657,7 @@
       "chars": 451,
       "ideas": 28,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "jdi_a_otevri_dvere_033.html",
       "next": "jdi_a_otevri_dvere_035.html",
       "toc": [
@@ -760,7 +677,7 @@
       "chars": 329,
       "ideas": 16,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "jdi_a_otevri_dvere_034.html",
       "next": "jdi_a_otevri_dvere_036.html",
       "toc": [
@@ -780,7 +697,7 @@
       "chars": 121,
       "ideas": 8,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "jdi_a_otevri_dvere_035.html",
       "next": "jdi_a_otevri_dvere_037.html",
       "toc": [
@@ -800,7 +717,7 @@
       "chars": 336,
       "ideas": 15,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "jdi_a_otevri_dvere_036.html",
       "next": "jdi_a_otevri_dvere_038.html",
       "toc": [
@@ -820,7 +737,7 @@
       "chars": 1263,
       "ideas": 72,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "jdi_a_otevri_dvere_037.html",
       "next": "jdi_a_otevri_dvere_039.html",
       "toc": [
@@ -840,7 +757,7 @@
       "chars": 1416,
       "ideas": 66,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "jdi_a_otevri_dvere_038.html",
       "next": "jdi_a_otevri_dvere_040.html",
       "toc": [
@@ -860,7 +777,7 @@
       "chars": 1688,
       "ideas": 81,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "jdi_a_otevri_dvere_039.html",
       "next": "jdi_a_otevri_dvere_041.html",
       "toc": [
@@ -880,7 +797,7 @@
       "chars": 998,
       "ideas": 49,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "jdi_a_otevri_dvere_040.html",
       "next": "jdi_a_otevri_dvere_042.html",
       "toc": [
@@ -900,7 +817,7 @@
       "chars": 83,
       "ideas": 5,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "jdi_a_otevri_dvere_041.html",
       "next": "jdi_a_otevri_dvere_043.html",
       "toc": [
@@ -920,9 +837,9 @@
       "chars": 1160,
       "ideas": 57,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "jdi_a_otevri_dvere_042.html",
-      "next": "jdi_a_otevri_dvere_044.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -934,20 +851,20 @@
       ]
     },
     {
-      "title": "Jdi a otevři dveře",
-      "file": "jdi_a_otevri_dvere_044.html",
-      "words": 51,
-      "chars": 337,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 44,
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 126,
+      "chars": 792,
+      "ideas": 14,
+      "role": "colophon",
+      "order": null,
       "prev": "jdi_a_otevri_dvere_043.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -956,14 +873,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3168,
-      "chars": 18383,
-      "ideas": 875
+      "words": 3142,
+      "chars": 18199,
+      "ideas": 868
     },
     "chapters": {
-      "words": 3161,
-      "chars": 18346,
-      "ideas": 872
+      "words": 3009,
+      "chars": 17369,
+      "ideas": 851
     }
   }
 }
