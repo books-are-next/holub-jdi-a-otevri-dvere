@@ -1,6 +1,6 @@
 ---
 title: Cesta
-contentType: prose
+contentType: poetry
 ---
 
 A tak se tedy započíná  

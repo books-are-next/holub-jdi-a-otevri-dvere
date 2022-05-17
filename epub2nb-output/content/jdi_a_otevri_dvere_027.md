@@ -1,6 +1,6 @@
 ---
 title: Izotopy
-contentType: prose
+contentType: poetry
 ---
 
 Vyzařujíce  

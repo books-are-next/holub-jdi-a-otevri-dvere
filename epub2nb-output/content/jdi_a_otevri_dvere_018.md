@@ -1,6 +1,6 @@
 ---
 title: Elegán
-contentType: prose
+contentType: poetry
 ---
 
 Vyžehlené šaty na ramínku  

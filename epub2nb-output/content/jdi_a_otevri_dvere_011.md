@@ -1,6 +1,6 @@
 ---
 title: Čarodějův učeň
-contentType: prose
+contentType: poetry
 ---
 
 Po provedení zakletí  

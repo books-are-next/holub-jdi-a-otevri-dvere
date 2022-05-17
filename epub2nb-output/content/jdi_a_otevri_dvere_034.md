@@ -1,6 +1,6 @@
 ---
 title: "O\_básni"
-contentType: prose
+contentType: poetry
 ---
 
 Je to  

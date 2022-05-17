@@ -1,6 +1,6 @@
 ---
 title: Učitel
-contentType: prose
+contentType: poetry
 ---
 
 Země se točí,  

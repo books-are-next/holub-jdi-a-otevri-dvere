@@ -1,6 +1,6 @@
 ---
 title: Posluchač
-contentType: prose
+contentType: poetry
 ---
 
 S uchem na ampliónu  

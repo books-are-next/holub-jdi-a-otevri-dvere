@@ -1,6 +1,6 @@
 ---
 title: Strojvedoucí
-contentType: prose
+contentType: poetry
 ---
 
 Když uhasíná pod kotlem,  

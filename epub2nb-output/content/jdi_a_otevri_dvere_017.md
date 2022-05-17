@@ -1,6 +1,6 @@
 ---
 title: Trefa
-contentType: prose
+contentType: poetry
 ---
 
 Soudruzi,  

@@ -1,6 +1,6 @@
 ---
 title: Umělý déšť
-contentType: prose
+contentType: poetry
 ---
 
 Mrak nabodneme raketou, nakazíme  

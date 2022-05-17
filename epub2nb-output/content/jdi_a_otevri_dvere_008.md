@@ -1,6 +1,6 @@
 ---
 title: "O\_vývoji jara"
-contentType: prose
+contentType: poetry
 ---
 
 V lístcích ještě neviditelných,  

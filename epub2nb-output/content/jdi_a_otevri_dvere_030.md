@@ -1,6 +1,6 @@
 ---
 title: Vynálezy
-contentType: prose
+contentType: poetry
 ---
 
 Moudří mužové v bílých tógách předstupují o Slavnostech, vydávají počet ze své práce a král Gelos jim naslouchá.

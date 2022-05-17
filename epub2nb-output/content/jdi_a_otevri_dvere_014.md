@@ -1,6 +1,6 @@
 ---
 title: Staré město
-contentType: prose
+contentType: poetry
 ---
 
 Arkády ukusují  

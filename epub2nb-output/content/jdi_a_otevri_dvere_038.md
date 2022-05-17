@@ -1,6 +1,6 @@
 ---
 title: Konec hry
-contentType: prose
+contentType: poetry
 ---
 
 Když se míč odkutálel  

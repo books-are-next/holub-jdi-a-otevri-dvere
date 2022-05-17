@@ -1,6 +1,6 @@
 ---
 title: Králové
-contentType: prose
+contentType: poetry
 ---
 
 Nepochopitelná tíha historie.

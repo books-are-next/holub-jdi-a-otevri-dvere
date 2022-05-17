@@ -1,6 +1,6 @@
 ---
 title: "Večerní zátiší s\_protoplasmou"
-contentType: prose
+contentType: poetry
 ---
 
 Domy obrůstají  

@@ -1,6 +1,6 @@
 ---
 title: Kolotoč
-contentType: prose
+contentType: poetry
 ---
 
 Někteří jedou na ryzácích  

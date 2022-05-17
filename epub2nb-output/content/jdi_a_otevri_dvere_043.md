@@ -1,6 +1,6 @@
 ---
 title: Váha
-contentType: prose
+contentType: poetry
 ---
 
 A pak je tu ještě taková váha,  

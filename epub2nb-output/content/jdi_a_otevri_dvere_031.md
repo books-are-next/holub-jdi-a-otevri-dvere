@@ -1,6 +1,6 @@
 ---
 title: Potápěč
-contentType: prose
+contentType: poetry
 ---
 
 Vypouštěje bublinky jako kolmý úplatek osudu klesá nachovými hlubinami, míjí náměsíčné ryby, panenské kraby, medúzy podobné předjitřní hodině, sumýše z porcelánu, vějíře světel, čelenky lilijic rozpustné ve víně,

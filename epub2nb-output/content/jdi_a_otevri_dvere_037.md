@@ -1,6 +1,6 @@
 ---
 title: Zvonek
-contentType: prose
+contentType: poetry
 ---
 
 V tomto domě nikdo nemá zvonek. Návštěvníky  
