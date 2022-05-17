@@ -1,8 +1,7 @@
 ---
+title: Pohádka
 contentType: prose
 ---
-
-## Pohádka
 
 Postavil si svůj domek,  
                      své základy,  

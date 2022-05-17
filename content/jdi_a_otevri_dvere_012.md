@@ -1,8 +1,7 @@
 ---
+title: Polednice
 contentType: prose
 ---
-
-## Polednice
 
 Stojí frontu na loktuše,  
                        na jedová jablíčka,  

@@ -1,8 +1,7 @@
 ---
+title: "Cesta k\_Venuši"
 contentType: prose
 ---
-
-## Cesta k Venuši
 
 12\. února 1961 byla v SSSR  
 vypuštěna soustavou vícestupňových  

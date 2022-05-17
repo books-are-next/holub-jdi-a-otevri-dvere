@@ -1,8 +1,7 @@
 ---
+title: "O\_vývoji jara"
 contentType: prose
 ---
-
-## O vývoji jara
 
 V lístcích ještě neviditelných,  
 v balonu vzduchu ještě upoutaném,  

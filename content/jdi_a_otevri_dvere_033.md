@@ -1,8 +1,7 @@
 ---
+title: Kolotoč
 contentType: prose
 ---
-
-## Kolotoč
 
 Někteří jedou na ryzácích  
 do povidlové Argentiny.  

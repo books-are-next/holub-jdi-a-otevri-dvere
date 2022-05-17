@@ -1,9 +1,7 @@
 ---
+title: "Návrat z\_venkovského kina"
 contentType: prose
 ---
-
-## Návrat  
-z venkovského kina
 
 Už nevím, co to dávali za kus.
 

@@ -1,8 +1,7 @@
 ---
+title: Umělý déšť
 contentType: prose
 ---
-
-## Umělý déšť
 
 Mrak nabodneme raketou, nakazíme  
 krystalky soli  

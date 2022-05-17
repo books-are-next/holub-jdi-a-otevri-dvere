@@ -1,8 +1,7 @@
 ---
+title: Elegán
 contentType: prose
 ---
-
-## Elegán
 
 Vyžehlené šaty na ramínku  
                 pošle se uklonit.

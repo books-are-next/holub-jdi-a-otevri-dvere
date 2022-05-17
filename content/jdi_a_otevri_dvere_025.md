@@ -1,8 +1,7 @@
 ---
+title: Výcvik astronautů
 contentType: prose
 ---
-
-## Výcvik astronautů
 
 Abychom strhli  
 přitažlivost Země  

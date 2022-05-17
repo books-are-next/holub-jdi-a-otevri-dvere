@@ -1,8 +1,7 @@
 ---
+title: Vodník
 contentType: prose
 ---
-
-## Vodník
 
 Je nutno  
           hned po ránu pouštět bublinky,  

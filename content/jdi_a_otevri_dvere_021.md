@@ -1,9 +1,7 @@
 ---
+title: Několik velmi chytrých lidí
 contentType: prose
 ---
-
-## Několik  
-velmi chytrých lidí
 
 Mluvili špendlíky,  
 mlčeli jehlami.

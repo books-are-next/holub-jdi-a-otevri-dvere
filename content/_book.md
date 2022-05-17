@@ -2,8 +2,10 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Jdi a otevři dveře
   identifier: 7be08ac0-95a6-4815-8085-4a17fc310135
   author: Miroslav Holub
@@ -59,6 +61,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

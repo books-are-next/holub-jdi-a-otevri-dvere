@@ -1,8 +1,7 @@
 ---
+title: Váha
 contentType: prose
 ---
-
-# Váha
 
 A pak je tu ještě taková váha,  
 citlivá jako nerv  

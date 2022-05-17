@@ -1,8 +1,7 @@
 ---
+title: Izotopy
 contentType: prose
 ---
-
-## Izotopy
 
 Vyzařujíce  
                     něhu  

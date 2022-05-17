@@ -1,8 +1,7 @@
 ---
+title: Cesta
 contentType: prose
 ---
-
-## Cesta
 
 A tak se tedy započíná  
 cesta,  

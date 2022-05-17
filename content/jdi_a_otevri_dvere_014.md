@@ -1,8 +1,7 @@
 ---
+title: Staré město
 contentType: prose
 ---
-
-## Staré město
 
 Arkády ukusují  
 z krajíce soumraku  

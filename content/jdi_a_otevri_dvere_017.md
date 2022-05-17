@@ -1,8 +1,7 @@
 ---
+title: Trefa
 contentType: prose
 ---
-
-## Trefa
 
 Soudruzi,  
 v hospodě U kanónu  

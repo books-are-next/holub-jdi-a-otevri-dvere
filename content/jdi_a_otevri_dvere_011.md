@@ -1,8 +1,7 @@
 ---
+title: Čarodějův učeň
 contentType: prose
 ---
-
-## Čarodějův učeň
 
 Po provedení zakletí  
 provede se hlášení  

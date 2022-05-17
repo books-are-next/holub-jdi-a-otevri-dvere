@@ -1,8 +1,7 @@
 ---
+title: Králové
 contentType: prose
 ---
-
-## Králové
 
 Nepochopitelná tíha historie.
 

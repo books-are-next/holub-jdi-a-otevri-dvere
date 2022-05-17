@@ -1,9 +1,7 @@
 ---
+title: Parádní pokoj čili výklad básně
 contentType: prose
 ---
-
-## Parádní pokoj  
-čili výklad básně
 
 A teď mi to řekněte  
 jinými slovy,  

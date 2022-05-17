@@ -1,8 +1,7 @@
 ---
+title: Strojvedoucí
 contentType: prose
 ---
-
-## Strojvedoucí
 
 Když uhasíná pod kotlem,  
                           tře si ruce.

@@ -1,8 +1,7 @@
 ---
+title: Žito kouzelník
 contentType: prose
 ---
-
-## Žito kouzelník
 
 Pro obveselení pana krále promění vodu ve víno. Žáby v ševce. Šváby v dráby. A z potkana udělá ministra. Uklání se a z prstů mu kvetou sedmikrásky. A v týle mu sedí mluvicí pták.
 
