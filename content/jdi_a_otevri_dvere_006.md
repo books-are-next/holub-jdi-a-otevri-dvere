@@ -3,6 +3,8 @@ title: Dveře
 contentType: poetry
 ---
 
+<section>
+
 Jdi a otevři dveře.  
           Třeba je tam venku  
           strom, nebo les,  
@@ -35,3 +37,5 @@ jdi a otevři dveře.
 Aspoň  
 průvan  
 bude.
+
+</section>

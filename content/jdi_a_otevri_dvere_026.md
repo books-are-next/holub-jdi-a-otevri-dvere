@@ -3,6 +3,8 @@ title: "Cesta k\_Venuši"
 contentType: poetry
 ---
 
+<section>
+
 12\. února 1961 byla v SSSR  
 vypuštěna soustavou vícestupňových  
 raket a družice automatická  
@@ -26,3 +28,5 @@ Kosmická raketa:
 A pak to už,  
 pánové,  
 automaticky letí k Venuši.
+
+</section>

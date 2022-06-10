@@ -3,6 +3,8 @@ title: Několik velmi chytrých lidí
 contentType: poetry
 ---
 
+<section>
+
 Mluvili špendlíky,  
 mlčeli jehlami.
 
@@ -15,3 +17,5 @@ kopali si
                 chlebem  
 od rohu  
                 k rohu.
+
+</section>

@@ -3,6 +3,8 @@ title: Advent
 contentType: poetry
 ---
 
+<section>
+
 Ledy leží podle řeky  
 jako nepoužité  
 obaly  
@@ -25,3 +27,5 @@ Ledy leží podle řeky
 jako nepoužité  
 obaly  
 života.
+
+</section>

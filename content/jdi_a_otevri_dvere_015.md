@@ -3,6 +3,8 @@ title: Pohádka
 contentType: poetry
 ---
 
+<section>
+
 Postavil si svůj domek,  
                      své základy,  
                      své kameny,  
@@ -29,3 +31,5 @@ chladným,
 nekonečným  
 deštěm  
 do světa.
+
+</section>

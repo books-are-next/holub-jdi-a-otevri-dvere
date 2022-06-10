@@ -3,6 +3,8 @@ title: Žito kouzelník
 contentType: poetry
 ---
 
+<section>
+
 Pro obveselení pana krále promění vodu ve víno. Žáby v ševce. Šváby v dráby. A z potkana udělá ministra. Uklání se a z prstů mu kvetou sedmikrásky. A v týle mu sedí mluvicí pták.
 
 Tak.
@@ -17,3 +19,5 @@ Tu Žito zesmutní a zbledne: Račte prominout. Sinus je od plus jedné k minu
 
 A odchází tiše špalírem dvořenínů z velké královské říše do svého domova  
                                           v oříšku.
+
+</section>

@@ -3,6 +3,8 @@ title: Polednice
 contentType: poetry
 ---
 
+<section>
+
 Stojí frontu na loktuše,  
                        na jedová jablíčka,  
 rve se o poslední berli.
@@ -22,3 +24,5 @@ a mumlá hodinu za hodinou:
 
 A napřesrok, paní, nám zruší  
 i to bóží poledne.
+
+</section>

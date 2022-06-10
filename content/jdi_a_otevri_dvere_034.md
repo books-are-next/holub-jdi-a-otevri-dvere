@@ -3,6 +3,8 @@ title: "O\_básni"
 contentType: poetry
 ---
 
+<section>
+
 Je to  
         doutnák,  
 který podpálíte  
@@ -35,3 +37,5 @@ nepraskne skála,
 aspoň někdo řekne —
 
         Hergot, něco se stalo!
+
+</section>

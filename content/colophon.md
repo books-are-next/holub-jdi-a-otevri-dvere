@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 Miroslav Holub    
 Jdi a otevři dveře  
 Edice Čeští básníci 20. století  
@@ -9,11 +10,8 @@ Redakce Jaroslava Bednářová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Jdi a otevři dveře](https://search.mlp.cz/cz/titul/jdi-a-otevri-dvere/2195625/#book-content) tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 1961. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 
