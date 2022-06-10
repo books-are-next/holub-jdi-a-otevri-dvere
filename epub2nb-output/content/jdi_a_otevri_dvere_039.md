@@ -3,6 +3,8 @@ title: Cesta
 contentType: poetry
 ---
 
+<section>
+
 A tak se tedy započíná  
 cesta,  
 od stolu, od židle,  
@@ -82,3 +84,5 @@ poobědváme
 a pohlédneme na hodiny.
 
 Je za pět minut dvanáct.
+
+</section>

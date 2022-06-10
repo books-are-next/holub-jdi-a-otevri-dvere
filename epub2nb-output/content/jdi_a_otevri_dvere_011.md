@@ -3,6 +3,8 @@ title: Čarodějův učeň
 contentType: poetry
 ---
 
+<section>
+
 Po provedení zakletí  
 provede se hlášení  
 na formuláři Zak-1.
@@ -27,3 +29,5 @@ malinké červené myšky
 se zelenýma žabíma očima:
 
 pořádek musí být!
+
+</section>

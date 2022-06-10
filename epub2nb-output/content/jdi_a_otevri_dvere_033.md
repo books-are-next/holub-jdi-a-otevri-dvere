@@ -3,6 +3,8 @@ title: Kolotoč
 contentType: poetry
 ---
 
+<section>
+
 Někteří jedou na ryzácích  
 do povidlové Argentiny.  
 Někteří jedou atomovými tramvajemi  
@@ -32,3 +34,5 @@ který poznamenal —
 — to to ale jede jak s hnojem,  
 tento chlapeček  
 bude básníkem.
+
+</section>

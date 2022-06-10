@@ -3,6 +3,8 @@ title: Výcvik astronautů
 contentType: poetry
 ---
 
+<section>
+
 Abychom strhli  
 přitažlivost Země  
 jako barokní masku,
@@ -28,3 +30,5 @@ sedí
 jakési bytosti  
 a dmou se řečí  
 o malých poměrech.)
+
+</section>

@@ -3,6 +3,8 @@ title: Umělý déšť
 contentType: poetry
 ---
 
+<section>
+
 Mrak nabodneme raketou, nakazíme  
 krystalky soli  
 a spadne  
@@ -25,3 +27,5 @@ a vodník nevyschne,
 až si pojede dát vyspravit  
 něžnou tkáň večera  
 silonem.
+
+</section>

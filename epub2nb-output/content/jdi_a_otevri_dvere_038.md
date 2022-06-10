@@ -3,6 +3,8 @@ title: Konec hry
 contentType: poetry
 ---
 
+<section>
+
 Když se míč odkutálel  
 a zarazil  
 o černou nit večera,
@@ -83,3 +85,5 @@ onen zub,
 jejž dosud většině lidí  
 k stáru museli  
 vytrhnout.
+
+</section>

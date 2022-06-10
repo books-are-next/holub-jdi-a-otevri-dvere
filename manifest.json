@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-jdi-a-otevri-dvere-c144b8c",
-  "revision": "c144b8c",
+  "identifier": "holub-jdi-a-otevri-dvere-e72c6b6",
+  "revision": "e72c6b6",
   "readingOrder": [
     "promo.html",
     "jdi_a_otevri_dvere_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:20:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870825032
+    "date": "Fri Jun 10 2022 17:50:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883419209
   },
   "documents": [
     {
@@ -433,9 +433,9 @@
     {
       "title": "Parádní pokoj čili výklad básně",
       "file": "jdi_a_otevri_dvere_023.html",
-      "words": 5,
-      "chars": 31,
-      "ideas": 1,
+      "words": 24,
+      "chars": 136,
+      "ideas": 8,
       "role": "chapter",
       "order": 19,
       "prev": "jdi_a_otevri_dvere_022.html",
@@ -853,9 +853,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 126,
-      "chars": 792,
-      "ideas": 14,
+      "words": 56,
+      "chars": 393,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "jdi_a_otevri_dvere_043.html",
@@ -873,14 +873,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3142,
-      "chars": 18199,
-      "ideas": 868
+      "words": 3091,
+      "chars": 17905,
+      "ideas": 866
     },
     "chapters": {
-      "words": 3009,
-      "chars": 17369,
-      "ideas": 851
+      "words": 3028,
+      "chars": 17474,
+      "ideas": 858
     }
   }
 }

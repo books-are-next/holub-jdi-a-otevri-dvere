@@ -3,6 +3,8 @@ title: Strojvedoucí
 contentType: poetry
 ---
 
+<section>
+
 Když uhasíná pod kotlem,  
                           tře si ruce.
 
@@ -13,3 +15,5 @@ Když uchází pára,
                           zasykne.
 
 Protože to bolí.
+
+</section>

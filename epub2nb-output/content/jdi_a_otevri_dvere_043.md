@@ -3,6 +3,8 @@ title: Váha
 contentType: poetry
 ---
 
+<section>
+
 A pak je tu ještě taková váha,  
 citlivá jako nerv  
 a němá jako kámen,  
@@ -70,3 +72,5 @@ Citlivý objem a citlivá váha:
 Což konec konců  
 známe i z poezie,  
 přátelé.
+
+</section>

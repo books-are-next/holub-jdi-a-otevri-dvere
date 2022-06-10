@@ -3,6 +3,8 @@ title: Učitel
 contentType: poetry
 ---
 
+<section>
+
 Země se točí,  
                          říká žáček.  
 Nikoli, země se točí,  
@@ -19,3 +21,5 @@ Dvakrát dvě jsou čtyři,
                          opravuje ho učitel.
 
 Protože učitel to ví líp.
+
+</section>

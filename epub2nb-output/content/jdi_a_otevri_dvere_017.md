@@ -3,6 +3,8 @@ title: Trefa
 contentType: poetry
 ---
 
+<section>
+
 Soudruzi,  
 v hospodě U kanónu  
 sedí feldmaršál Radecký,  
@@ -42,3 +44,5 @@ co chcete.
 S tou trefou mají  
 pravdu,  
 soudruzi!
+
+</section>

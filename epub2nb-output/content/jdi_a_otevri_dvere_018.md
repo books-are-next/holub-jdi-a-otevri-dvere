@@ -3,6 +3,8 @@ title: Elegán
 contentType: poetry
 ---
 
+<section>
+
 Vyžehlené šaty na ramínku  
                 pošle se uklonit.
 
@@ -22,3 +24,5 @@ Protože sám je dřevěný,
 s větví k nebi,  
 se sukem za ušima,  
 s kořenem do hlavy.
+
+</section>

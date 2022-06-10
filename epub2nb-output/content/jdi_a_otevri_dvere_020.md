@@ -3,6 +3,8 @@ title: Posluchač
 contentType: poetry
 ---
 
+<section>
+
 S uchem na ampliónu  
 kroutí knoflíky,  
 vysává krátké vlny,  
@@ -34,3 +36,5 @@ svůj vlastní hlas
 jako zvon dunící jantarovým éterem:
 
                    ty svině!
+
+</section>

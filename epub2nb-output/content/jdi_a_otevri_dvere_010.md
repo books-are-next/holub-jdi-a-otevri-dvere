@@ -3,6 +3,8 @@ title: Vodník
 contentType: poetry
 ---
 
+<section>
+
 Je nutno  
           hned po ránu pouštět bublinky,  
           dopoledne houpat vlny,  
@@ -13,3 +15,5 @@ Je nutno
 
 a sednout si a jen tak strašit  
 dneska vůbec není čas.
+
+</section>
