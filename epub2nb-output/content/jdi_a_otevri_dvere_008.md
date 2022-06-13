@@ -8,7 +8,7 @@ contentType: poetry
 V lístcích ještě neviditelných,  
 v balonu vzduchu ještě upoutaném,  
 v pokožce večera  
-                                 již sametové
+            již sametové
 
 prochází svým zárodečným vývojem
 

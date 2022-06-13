@@ -16,16 +16,16 @@ zavírá okna,
 zavírá oči,  
 kroutí knoflíky,  
 naslouchá  
-                   štěkotu šakalů,  
-                   brebentění opic,  
-                   skřekům papoušků,  
-                   vytí hvězd.
+            štěkotu šakalů,  
+            brebentění opic,  
+            skřekům papoušků,  
+            vytí hvězd.
 
 Lunu v okně balí do deky,  
 zakrývá zrcadlo,  
 mouchám vypichuje oči,  
 na dveře píše zaklínadlo  
-                   — pro vás neexistuju,
+            — pro vás neexistuju,
 
 a s hlavou ponořenou v přijímači  
 kroutí knoflíky,  
@@ -35,6 +35,6 @@ na úplně krátkých vlnách
 svůj vlastní hlas  
 jako zvon dunící jantarovým éterem:
 
-                   ty svině!
+            ty svině!
 
 </section>

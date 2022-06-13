@@ -16,7 +16,7 @@ Jdi a otevři dveře.
           Třeba je tam tvář,  
           nebo oko,  
           nebo obraz  
-                                obrazu.
+            obrazu.
 
 Jdi a otevři dveře.  
           Když je tam mlha,  
@@ -29,8 +29,8 @@ Jdi a otevři dveře.
           duté vanutí,
 
           i kdyby tam  
-                                 nic  
-                                        nebylo,
+            nic  
+            nebylo,
 
 jdi a otevři dveře.
 

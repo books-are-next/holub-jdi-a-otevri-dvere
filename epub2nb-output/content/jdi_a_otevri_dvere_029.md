@@ -18,6 +18,6 @@ Pak ale přijde nějaký žák a prosí: Vymysli sinus alfa větší než jedna
 Tu Žito zesmutní a zbledne: Račte prominout. Sinus je od plus jedné k minus jedné. S tím se nedá hnout.
 
 A odchází tiše špalírem dvořenínů z velké královské říše do svého domova  
-                                          v oříšku.
+            v oříšku.
 
 </section>

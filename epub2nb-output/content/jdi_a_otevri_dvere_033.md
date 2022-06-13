@@ -20,8 +20,8 @@ a co budeme milovat.
 A jezdci na koních  
 a pasažéři červených tramvají  
 budou  
-              vzduchoplavci  
-                                         a inženýry.
+            vzduchoplavci  
+            a inženýry.
 
 Ale chlapeček, který  
 na bobku pozoruje ten elektromotor vespod,  

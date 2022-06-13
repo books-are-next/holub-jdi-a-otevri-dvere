@@ -8,16 +8,16 @@ contentType: poetry
 Mrak nabodneme raketou, nakazíme  
 krystalky soli  
 a spadne  
-                umělý déšť.
+            umělý déšť.
 
 Až si řeknou kořínky žit  
-                                               — umělý déšť,  
+            — umělý déšť,  
 až si řeknou chlapečkové  
-                                               — umělý déšť,  
+            — umělý déšť,  
 až si řeknou hydroelektrárny,  
 až si řekne hřib,  
 až si řekne ticho lesa  
-                                        — umělý déšť.
+            — umělý déšť.
 
 A hory se budou zelenat  
 a milenci se budou líbat  

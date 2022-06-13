@@ -6,19 +6,19 @@ contentType: poetry
 <section>
 
 Vyžehlené šaty na ramínku  
-                pošle se uklonit.
+            pošle se uklonit.
 
 Skleněné oko  
-                pošle mrknout.  
+            pošle mrknout.  
 Dlouhohrající desku  
-                pošle konverzovat.
+            pošle konverzovat.
 
 Protézu  
-                pošle přitisknout se k nožce.  
+            pošle přitisknout se k nožce.  
 Umělý chrup  
-                pošle políbit ruku.  
+            pošle políbit ruku.  
 Zbrusu nový stín  
-                pošle doprovodit.
+            pošle doprovodit.
 
 Protože sám je dřevěný,  
 s větví k nebi,  

@@ -11,11 +11,11 @@ a němá jako kámen,
 taková váha, přátelé.
 
 Slovo může vážit tunu  
-                                  a taky nic.  
+            a taky nic.  
 Tisíc mrtvých nemusí  
-                                  pohnout vahadlem  
+            pohnout vahadlem  
 a pláč dítěte může  
-                                  obrátit pohyb času.
+            obrátit pohyb času.
 
 Taková váha.
 
@@ -32,19 +32,19 @@ a plameny lidskosti olizovaly
 duchnu i kredenc a brejle pod oknem.
 
 Ale ona se jen  
-                          propadala  
-                                              do pološera.
+            propadala  
+            do pološera.
 
 A co bylo třeba,  
 bylo jen sáhnout na její  
 starou a odpornou nohu,  
 stačilo se podívat na pokožku fialovou  
-                                              jako podhoubí námele,  
+            jako podhoubí námele,  
 stačilo vynadat dvěma úředníkům  
 a jednomu samaritánovi  
 a byla převezena do špitálu  
 a nohu jí amputovali  
-                  deset centimetrů od smrti.
+            deset centimetrů od smrti.
 
 A žije. Bez skučení.
 
@@ -52,19 +52,19 @@ Tak taková váha.
 
 Někdy i pohled váží,  
 někdy i průvan je těžší  
-                                            sedlin  
-                                            a kotelních kamenů,  
+            sedlin  
+            a kotelních kamenů,  
 taková váha, přátelé.
 
 A pak je tu jistý citlivý objem,  
 v buňce,  
-               ve městě,  
-                                 v člověku,  
+            ve městě,  
+            v člověku,  
 kde stačí jediný zásah,  
 jediný paprsek nebo  
 jediná zámlka  
 a všechno se hroutí  
-                                     nebo roste  
+            nebo roste  
 jako tajemství svlečené z mlhy  
 a z nevyslovitelna.
 

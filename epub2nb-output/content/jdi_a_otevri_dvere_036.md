@@ -6,13 +6,13 @@ contentType: poetry
 <section>
 
 Když uhasíná pod kotlem,  
-                          tře si ruce.
+            tře si ruce.
 
 Když netěsní ventil,  
-                          stiskne rty.
+            stiskne rty.
 
 Když uchází pára,  
-                          zasykne.
+            zasykne.
 
 Protože to bolí.
 
