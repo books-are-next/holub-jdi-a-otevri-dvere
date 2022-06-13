@@ -14,8 +14,8 @@ chladnýma rukama.
 
 A když pak šli domů,  
 kopali si  
-                chlebem  
+            chlebem  
 od rohu  
-                k rohu.
+            k rohu.
 
 </section>

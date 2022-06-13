@@ -11,10 +11,10 @@ a v podloubí tma
 belhá se pilíř od pilíře  
 a skuhrá:
 
-                 Dvě dvojky a jeden kříž  
-                 tam chyběly,  
-                 sedum bodů.  
-                 Nic nebral.
+            Dvě dvojky a jeden kříž  
+            tam chyběly,  
+            sedum bodů.  
+            Nic nebral.
 
 Revmatický duch sklepa  
 nadává kočičím hlavám,  
@@ -27,10 +27,10 @@ Kmitavé světlo
 belhá se pilíř od pilíře  
 a skuhrá:
 
-                 Dvě dvojky a jeden kříž  
-                 tam chyběly,  
-                 sedum bodů.  
-                 Nic nebral.
+            Dvě dvojky a jeden kříž  
+            tam chyběly,  
+            sedum bodů.  
+            Nic nebral.
 
 Jsou místa, kam století  
 sahá jen  

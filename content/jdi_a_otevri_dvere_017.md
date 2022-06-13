@@ -18,25 +18,25 @@ malovaný kanón.
 
 A když někdo ukradne  
 z fabriky baterie,  
-                pánové povstávají  
-                a provolávají  
-                                        sláva!
+            pánové povstávají  
+            a provolávají  
+            sláva!
 
 A když se někdo zlinkuje  
 — jak zákon káže,  
-                pánové povstávají  
-                a aplaudují  
-                v glazé rukavičkách.
+            pánové povstávají  
+            a aplaudují  
+            v glazé rukavičkách.
 
 A když přijdete domů  
 a praštíte ženu,  
-                feldmaršál Radecký  
-                se hrdě obrátí  
-                od kouřícího kanónu
+            feldmaršál Radecký  
+            se hrdě obrátí  
+            od kouřícího kanónu
 
-                a pánové zakvákají:
+            a pánové zakvákají:
 
-                To byla trefa!
+            To byla trefa!
 
 A můžete říkat na školení  
 co chcete.

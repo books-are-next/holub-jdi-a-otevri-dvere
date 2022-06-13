@@ -6,8 +6,8 @@ contentType: poetry
 <section>
 
 Vyzařujíce  
-                    něhu  
-                    a spravedlnost  
+            něhu  
+            a spravedlnost  
 jsme víc než jsme,  
 přecházíme zvolna  
 v izotopy lidí,
@@ -17,15 +17,15 @@ s rovnými stopami v emulzi času.
 
 Obohaceni transurany,  
 obohaceni  
-                     energií nového světa,  
+            energií nového světa,  
 chudší o mlhu,  
 lehčí vzduchu
 
 počínáme stavbu  
-                    nové přírody,  
+            nové přírody,  
 kde se nehnije,  
-                    nevyje samotou,  
-                    nenapichuje trn
+            nevyje samotou,  
+            nenapichuje trn
 
 a kde se  
 pitomost  

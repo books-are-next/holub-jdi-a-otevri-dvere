@@ -6,18 +6,18 @@ contentType: poetry
 <section>
 
 Postavil si svůj domek,  
-                     své základy,  
-                     své kameny,  
-                     své zdi,  
-                     svou střechu nad hlavou,  
-                     svůj komín, svůj kouř,  
-                     svou vyhlídku z okna.
+            své základy,  
+            své kameny,  
+            své zdi,  
+            svou střechu nad hlavou,  
+            svůj komín, svůj kouř,  
+            svou vyhlídku z okna.
 
 Postavil si svou zahradu,  
-                     svůj plot,  
-                     svůj tymián,  
-                     svou žížalu,  
-                     svou rosu večer.
+            svůj plot,  
+            svůj tymián,  
+            svou žížalu,  
+            svou rosu večer.
 
 Uřízl si svůj kousek nebe nahoře.
 

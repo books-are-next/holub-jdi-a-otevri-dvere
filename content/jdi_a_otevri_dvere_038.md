@@ -60,7 +60,7 @@ na trosky a novostavby,
 na otevřené dveře a  
 zavřené dveře,  
 na lomcování  
-                          a ticho,  
+            a ticho,  
 zející hlavně hospod,  
 detonace pavučin,
 

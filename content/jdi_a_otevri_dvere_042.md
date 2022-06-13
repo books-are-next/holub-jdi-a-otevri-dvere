@@ -10,6 +10,6 @@ a proto vaše řeč
 ať je  
 nevěstou zítřků
 
-                    — František Halas
+            — František Halas
 
 </section>

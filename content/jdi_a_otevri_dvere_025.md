@@ -19,11 +19,11 @@ abychom spatřili svou tvář
 v zakřiveném zrcadle  
 vesmíru —
 
-                 — sedíte v kabině  
-                       pro povzdech těsné  
-                       a sny se učíte  
-                       destilovat  
-                       po miligramech.
+            — sedíte v kabině  
+            pro povzdech těsné  
+            a sny se učíte  
+            destilovat  
+            po miligramech.
 
 (Zatímco v kavárně  
 sedí  

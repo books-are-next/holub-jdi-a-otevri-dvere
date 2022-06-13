@@ -6,19 +6,19 @@ contentType: poetry
 <section>
 
 Země se točí,  
-                         říká žáček.  
+            říká žáček.  
 Nikoli, země se točí,  
-                         říká učitel.
+            říká učitel.
 
 Hory se zelenají,  
-                         říká žáček.  
+            říká žáček.  
 Nikoli, hory se zelenají,  
-                         říká učitel.
+            říká učitel.
 
 Dvakrát dvě jsou čtyři,  
-                         říká žáček.  
+            říká žáček.  
 Dvakrát dvě jsou čtyři,  
-                         opravuje ho učitel.
+            opravuje ho učitel.
 
 Protože učitel to ví líp.
 
