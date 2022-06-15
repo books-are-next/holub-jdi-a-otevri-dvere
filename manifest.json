@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-jdi-a-otevri-dvere-12754b5",
-  "revision": "12754b5",
+  "identifier": "holub-jdi-a-otevri-dvere-6767a24",
+  "revision": "6767a24",
   "readingOrder": [
     "promo.html",
     "jdi_a_otevri_dvere_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157267286
+    "date": "Wed Jun 15 2022 05:49:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272183971
   },
   "documents": [
     {
@@ -853,8 +853,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 126,
-      "chars": 792,
+      "words": 140,
+      "chars": 899,
       "ideas": 14,
       "role": "colophon",
       "order": null,
@@ -873,8 +873,8 @@
   ],
   "totals": {
     "all": {
-      "words": 3161,
-      "chars": 18304,
+      "words": 3175,
+      "chars": 18411,
       "ideas": 875
     },
     "chapters": {
