@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2020-06-10T00:00:00.000Z'
   edition: poezie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - jdi_a_otevri_dvere_005.html
