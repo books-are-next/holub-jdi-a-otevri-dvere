@@ -54,7 +54,7 @@ readingOrder:
   - jdi_a_otevri_dvere_041.html
   - jdi_a_otevri_dvere_042.html
   - jdi_a_otevri_dvere_043.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
