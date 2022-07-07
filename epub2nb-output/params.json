@@ -77,7 +77,7 @@
             "filename": "jdi_a_otevri_dvere_004.md",
             "xhtml": "jdi_a_otevri_dvere_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -594,7 +594,7 @@
             "filename": "jdi_a_otevri_dvere_044.md",
             "xhtml": "jdi_a_otevri_dvere_044.html",
             "id": 43,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -961,6 +961,6 @@
       "user": "books-are-next",
       "repo": "holub-jdi-a-otevri-dvere"
     },
-    "generatedAt": 1655978593459
+    "generatedAt": 1657181967337
   }
 }

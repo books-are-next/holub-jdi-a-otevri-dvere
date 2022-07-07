@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-jdi-a-otevri-dvere-f20a87a",
-  "revision": "f20a87a",
+  "identifier": "holub-jdi-a-otevri-dvere-52fa13c",
+  "revision": "52fa13c",
   "readingOrder": [
     "promo.html",
     "jdi_a_otevri_dvere_005.html",
@@ -51,11 +51,11 @@
     "jdi_a_otevri_dvere_041.html",
     "jdi_a_otevri_dvere_042.html",
     "jdi_a_otevri_dvere_043.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:05:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978724528
+    "date": "Thu Jul 07 2022 08:26:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182394081
   },
   "documents": [
     {
@@ -839,7 +839,7 @@
       "role": "chapter",
       "order": 39,
       "prev": "jdi_a_otevri_dvere_042.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -852,11 +852,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 140,
-      "chars": 899,
+      "chars": 898,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "jdi_a_otevri_dvere_043.html",
       "next": null,
@@ -873,8 +873,8 @@
   ],
   "totals": {
     "all": {
-      "words": 3176,
-      "chars": 18414,
+      "words": 3175,
+      "chars": 18418,
       "ideas": 876
     },
     "chapters": {
