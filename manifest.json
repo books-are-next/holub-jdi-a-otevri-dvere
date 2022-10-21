@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-jdi-a-otevri-dvere-bf47edd",
-  "revision": "bf47edd",
+  "identifier": "holub-jdi-a-otevri-dvere-13bcc54",
+  "revision": "13bcc54",
   "readingOrder": [
     "promo.html",
     "jdi_a_otevri_dvere_005.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:48:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416927766
+    "date": "Fri Oct 21 2022 11:32:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351937301
   },
   "documents": [
     {
